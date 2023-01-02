@@ -1,7 +1,13 @@
+*{
+    text-align: center;
+}
 h1 {
     color: red;
 }
 
 h2 {
     background-color: aqua;
+}
+img {
+    width: 50%;
 }
